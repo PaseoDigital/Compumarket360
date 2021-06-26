@@ -1,8 +1,7 @@
 {
- "theme_color": "#000000",
  "name": "CompuMarket - Shopping del Sol",
+ "theme_color": "#000000",
  "description": "Lo mejor en tecnología, entretenimiento digital, electrónica y electrodomésticos para las personas, el hogar y las empresas.",
- "background_color": "#000000",
  "start_url": "index.htm",
  "icons": [
   {
@@ -41,5 +40,6 @@
    "src": "misc/icon64.png"
   }
  ],
+ "background_color": "#000000",
  "display": "fullscreen"
 }
