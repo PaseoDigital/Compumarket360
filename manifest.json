@@ -1,18 +1,19 @@
 {
- "name": "CompuMarket - Shopping del Sol",
- "background_color": "#000000",
- "description": "Lo mejor en tecnología, entretenimiento digital, electrónica y electrodomésticos para las personas, el hogar y las empresas.",
  "theme_color": "#000000",
+ "name": "CompuMarket - Shopping del Sol",
+ "description": "Lo mejor en tecnología, entretenimiento digital, electrónica y electrodomésticos para las personas, el hogar y las empresas.",
+ "background_color": "#000000",
+ "start_url": "index.htm",
  "icons": [
   {
    "type": "image/png",
-   "sizes": "512x512",
-   "src": "misc/icon512.png"
+   "sizes": "150x150",
+   "src": "misc/icon150.png"
   },
   {
    "type": "image/png",
-   "sizes": "192x192",
-   "src": "misc/icon192.png"
+   "sizes": "16x16",
+   "src": "misc/icon16.png"
   },
   {
    "type": "image/png",
@@ -21,13 +22,8 @@
   },
   {
    "type": "image/png",
-   "sizes": "150x150",
-   "src": "misc/icon150.png"
-  },
-  {
-   "type": "image/png",
-   "sizes": "64x64",
-   "src": "misc/icon64.png"
+   "sizes": "192x192",
+   "src": "misc/icon192.png"
   },
   {
    "type": "image/png",
@@ -36,10 +32,14 @@
   },
   {
    "type": "image/png",
-   "sizes": "16x16",
-   "src": "misc/icon16.png"
+   "sizes": "512x512",
+   "src": "misc/icon512.png"
+  },
+  {
+   "type": "image/png",
+   "sizes": "64x64",
+   "src": "misc/icon64.png"
   }
  ],
- "start_url": "index.htm",
  "display": "fullscreen"
 }
